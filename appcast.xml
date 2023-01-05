@@ -7,47 +7,6 @@
 <pubDate>Tue, 13 Dec 2022 15:15:00 -0800</pubDate>
 <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.0" sparkle:os="android"/>
 </item>
-<item>
-<title>Stability improvements, product search enhancements</title>
-<description>- Search & browse products for kid shops - Create and add your own items to shops - Family PIN to securely switch between users - So many improvements to the app</description>
-<pubDate>Sun, 20 Nov 2022 12:00:00 -0800</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.app.ketshop" sparkle:version="1.0.9.46" sparkle:os="android"/>
-</item>
-<item>
-<title>Major Release</title>
-<description>Added product search & browse, custom products, pin to switch between family members</description>
-<pubDate>Thu, 03 Nov 2022 12:00:00 -0700</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.app.ketshop" sparkle:version="1.0.9" sparkle:os="android"/>
-</item>
-<item>
-<title>Minor improvements</title>
-<description>Working to improve user experience</description>
-<pubDate>Wed, 06 Jul 2022 12:00:00 -0700</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.app.ketshop" sparkle:version="1.0.8" sparkle:os="android"/>
-</item>
-<item>
-<title>Major App Improvements & Charitable Giving!</title>
-<description>Ketshop now supports giving to charitable causes. UI improvements & bug fixes. Invite/share with a friend.</description>
-<pubDate>Mon, 04 Apr 2022 12:00:00 -0700</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.app.ketshop" sparkle:version="1.0.5" sparkle:os="android"/>
-</item>
-<item>
-<title>Various improvements</title>
-<description>UI improvements, minor bugfixes</description>
-<pubDate>Tue, 01 Feb 2022 12:00:00 -0800</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.app.ketshop" sparkle:version="1.0.3" sparkle:os="android"/>
-</item>
-<item>
-<title>Major Release</title>
-<description>Major improvements to user experience, collaborative shopping, and family money magement.</description>
-<pubDate>Fri, 14 Jan 2022 12:00:00 -0800</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.app.ketshop" sparkle:version="1.0.1" sparkle:os="android"/>
-</item>
-<item>
-<title>Ketshop Early Access</title>
-<description>First early access release with basic functionality for beta testing.</description>
-<pubDate>Fri, 29 Oct 2021 12:00:00 -0700</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.app.ketshop" sparkle:version="1.0.0" sparkle:os="android"/>
-</item>
+
 </channel>
 </rss>
